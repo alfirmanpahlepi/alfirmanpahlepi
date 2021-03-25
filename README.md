@@ -1,6 +1,5 @@
 # profile
 Name : Alfirman Ejha Pahlepi
-
 Date of Birth : June 11th 1999
 
 Aceh Tamiang
