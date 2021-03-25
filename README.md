@@ -1,8 +1,10 @@
-# profile
-Name : Alfirman Ejha Pahlepi
-Date of Birth : June 11th 1999
+# Alfirman Ejha Pahlepi
 
-Aceh Tamiang
+June 11th 1999
+
+Aceh Tamiang, Aceh, Indonesia
+
+[`https://portfolio-alfirman.web.app/`](https://portfolio-alfirman.web.app/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ezza022&count_private=true)
 
