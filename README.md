@@ -1,5 +1,5 @@
 # profile
-[Alfirman Ejha Pahlepi](https://portfolio-alfirman.web.app/)
+`[Alfirman Ejha Pahlepi]`(https://portfolio-alfirman.web.app/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ezza022&count_private=true)
 
