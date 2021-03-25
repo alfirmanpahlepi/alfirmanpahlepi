@@ -2,7 +2,7 @@
 ### React User
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XHUjaxELpc11SiRSqN/giphy.gif" alt="Live Demo" />
+  <img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Live Demo" />
 </p>
 
 June 11th 1999
