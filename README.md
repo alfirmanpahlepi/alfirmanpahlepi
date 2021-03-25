@@ -1,5 +1,9 @@
 # profile
-[`Alfirman Ejha Pahlepi`](https://portfolio-alfirman.web.app/)
+Name          : [Alfirman Ejha Pahlepi](https://portfolio-alfirman.web.app/)
+
+Date of Birth :June 11th 1999
+
+Aceh Tamiang
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ezza022&count_private=true)
 
