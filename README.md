@@ -1,6 +1,9 @@
 # Alfirman Ejha Pahlepi
 ### React User
 
+<p align="center">
+  <img src="https://media.giphy.com/media/XHUjaxELpc11SiRSqN/giphy.gif" alt="Live Demo" />
+</p>
 
 June 11th 1999
 
