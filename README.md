@@ -1,12 +1,10 @@
 <p align="center">
-  <svg width="200" height="200">
-  <g>
-    <ellipse cx="100" cy="100" rx="160" ry="60" />
-    <ellipse cx="100" cy="100" rx="160" ry="60" transform="rotate(60, 100, 100)" />
-    <ellipse cx="100" cy="100" rx="160" ry="60" transform="rotate(120, 100, 100)" />
-    <circle cx="100" cy="100" r="30" />
-  </g>
-</svg>
+ <svg width="200" height="200">
+  <img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Live Demo" />
+ </svg>
+ <svg width="200" height="200">
+  <img src ="https://react-logo-animated.netlify.app/"/>
+ </svg
 </p>
 
 
