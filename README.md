@@ -1,5 +1,5 @@
 <p align="center">
- <svg width="200" height="200">
+ <svg width="300" height="300">
   <img src="https://i.ibb.co/0yHXxWL/ezgif-com-gif-maker-1.gif" alt="Live Demo" />
  </svg>
 </p>
