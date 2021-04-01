@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://assets1.lottiefiles.com/datafiles/fab7172a9302d416bcdb8ac7e1c71123/data.json" alt="Live Demo" />
+  <img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Live Demo" />
 </p>
 
 
