@@ -1,10 +1,7 @@
 <p align="center">
  <svg width="200" height="200">
-  <img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Live Demo" />
+  <img src="https://hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif" alt="Live Demo" />
  </svg>
- <svg width="200" height="200">
-  <img src ="https://react-logo-animated.netlify.app/"/>
- </svg
 </p>
 
 
