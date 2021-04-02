@@ -1,6 +1,6 @@
 <p align="center">
  <svg>
-  <img src="https://i.ibb.co/vv4Qh86/react-delay-5.gif" alt="react-delay-5" border="0" />
+  <img src="https://i.ibb.co/vv4Qh86/react-delay-5.gif" alt="react-delay-5" />
  </svg>
 </p>
 
