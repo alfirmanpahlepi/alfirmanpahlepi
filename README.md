@@ -1,6 +1,6 @@
 <p align="center">
  <svg>
-  <img src="https://i.ibb.co/0yHXxWL/ezgif-com-gif-maker-1.gif" alt="Live Demo" />
+  <img src="https://i.ibb.co/3f1BsNM/react-delay-2.gif" alt="react-delay-2" border="0" />
  </svg>
 </p>
 
